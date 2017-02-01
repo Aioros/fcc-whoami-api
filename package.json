@@ -1,0 +1,23 @@
+{
+  "name": "fcc-whoami-api",
+  "version": "1.0.0",
+  "description": "An implementation of FreeCodeCamp's Request Header Parser Microservice API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aioros/fcc-whoami-api.git"
+  },
+  "author": "Aioros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aioros/fcc-whoami-api/issues"
+  },
+  "homepage": "https://github.com/Aioros/fcc-whoami-api#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
